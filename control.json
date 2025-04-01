@@ -1,0 +1,16 @@
+{
+    "ads": {
+        "top_banner": {
+            "banner": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg",
+            "ad_link": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg"
+        },
+        "sidebar_ad": {
+            "banner": "https://your-affiliate-banner-url.com/ad2.jpg",
+            "ad_link": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg"
+        },
+        "footer_ad": {
+            "banner": "https://your-affiliate-banner-url.com/ad3.jpg",
+            "ad_link": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg"
+        }
+    }
+}
