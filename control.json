@@ -1,15 +1,15 @@
 {
     "ads": {
         "top_banner": {
-            "banner": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg",
+            "banner": "https://a.storyblok.com/f/47007/1200x628/a4a4843482/ad-glossary-meta.png",
             "ad_link": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg"
         },
         "sidebar_ad": {
-            "banner": "https://your-affiliate-banner-url.com/ad2.jpg",
+            "banner": "https://a.storyblok.com/f/47007/1200x628/a4a4843482/ad-glossary-meta.png",
             "ad_link": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg"
         },
         "footer_ad": {
-            "banner": "https://your-affiliate-banner-url.com/ad3.jpg",
+            "banner": "https://a.storyblok.com/f/47007/1200x628/a4a4843482/ad-glossary-meta.png",
             "ad_link": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg"
         }
     }
