@@ -8,6 +8,14 @@
             "banner": "https://storage.googleapis.com/website-production/uploads/2023/01/liveplan-banner-ad-example.png",
             "ad_link": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg"
         },
+         "sidebar_ad1": {
+            "banner": "https://img.freepik.com/premium-psd/instagram-square-banner-ad-design-template_92881-50.jpg",
+            "ad_link": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg"
+        },
+        "sidebar_ad2": {
+            "banner": "https://img.freepik.com/premium-psd/instagram-square-banner-ad-design-template_92881-50.jpg",
+            "ad_link": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg"
+        },
         "footer_ad": {
             "banner": "https://vicimediainc.com/wp-content/uploads/2020/04/Ad-Creative-6.jpg",
             "ad_link": "http://localhost/wordpress/wp-content/uploads/2018/11/about-bg-5.jpg"
